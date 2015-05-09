@@ -2,6 +2,6 @@
 --------------------------------------
 
 #### In this project I built simple Video_Background_Web_site.
-#### Skills: HTML5, CSS, JavaScript
+#### Skills: HTML5, CSS, JQuery
 
 #### [DEMO] (http://ddeveloperr.github.io/Building_Video_Background_Web_site/)
